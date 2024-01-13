@@ -13,7 +13,7 @@ do
      \033[1;36m/---------------------------------------------\ \033[0m
     \033[1;36m l\033[0m \033[1;32m 1\033[0m\033[1;36m -\033[0m\033[1;31m Sobre a HeleWings  V1                  \033[0m\033[1;36ml\033[0m
      \033[1;36ml\033[0m \033[1;32m 2\033[0m\033[1;36m -\033[0m\033[1;31m Facebok do criador                     \033[0m\033[1;36ml\033[0m
-    \033[1;36m l\033[0m  \033[1;32m3\033[0m\033[1;36m -\033[0m\033[1;31m Como usar a Script Tentame Kelzer       \033[0m\033[1;36ml\033[0m
+    \033[1;36m l\033[0m  \033[1;32m3\033[0m\033[1;36m -\033[0m\033[1;31m Como usar a Script Tentame Kelzer      \033[0m\033[1;36ml\033[0m
     \033[1;36m l\033[0m  \033[1;32m4\033[0m\033[1;36m - \033[0m\033[1;31mComo utilizar o Xerxes                 \033[0m\033[1;36ml\033[0m
  \033[1;36m    l\033[0m  \033[1;32m5\033[0m\033[1;36m - \033[0m\033[1;31mComo utilizar o Hammer                 \033[0m\033[1;36ml\033[0m
 \033[1;36m     l\033[0m \033[1;32m 6\033[0m\033[1;36m - \033[0m\033[1;31mPra q serve e como utilizar a Red Hawk \033[0m\033[1;36ml\033[0m
@@ -144,7 +144,7 @@ apt upgrade -y
 pkg install git -y\033[0m
 
 \033[1;32m[4] Comando pra baixar a script\033[0m\033[1;34m
-git clone https://github.com/HelexielKelzer/Tentame_Kelzer
+git clone https://github.com/gabrielKelzer/Tentame_Kelzer
 \033[0m\033[1;32m
 [5] Entrando na pasta da script e dando permissões pra mesma\033[0m\033[1;34m
 ls
