@@ -1,6 +1,6 @@
 unset MENU_DO_MANUAL
 
-while [[ $MENU_DO_MANUAL -ne 11 ]]
+while [[ $MENU_DO_MANUAL -ne 10 ]]
 do
 	clear
 	unset MENU_DO_MANUAL
