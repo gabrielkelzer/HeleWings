@@ -367,7 +367,8 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
      7)
 	#Instalar git
 	pkg install git -y;clear
-		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
+		GRAFICO_OU_MENU
+                echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
 		read;;
@@ -379,6 +380,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
      8)
 	#Instalar toilet
 	apt install toilet -y;clear
+                GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -390,6 +392,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
      9)
 	#Instalar figlet
 	pkg install figlet -y;clear
+                GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -401,7 +404,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      10)
 	#Instalar wget
-	pkg install wget -y;clear
+	pkg install wget -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -412,7 +415,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      11)
 	#Instalar nano
-	pkg install nano -y;clear
+	pkg install nano -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -423,7 +426,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      12)
 	#Instalar curl
-	pkg install curl -y:;clear
+	pkg install curl -y:;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -435,7 +438,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      13)
 	#Instalar tor
-	pkg install tor -y;clear
+	pkg install tor -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -448,7 +451,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      14)
 	#Instalar openssh
-	pkg install openssh -y;clear
+	pkg install openssh -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -458,7 +461,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      15)
 	#Instalar pip
-	pip install --upgrade pip;clear
+	pip install --upgrade pip;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -469,7 +472,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      16)
 	#Instalar cmatrix
-	pkg install cmatrix -y;clear
+	pkg install cmatrix -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -480,7 +483,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      17)
 	#Instalar cowsay
-	pkg install cowsay -y;clear
+	pkg install cowsay -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34Caso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -491,7 +494,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      18)
 	#Instalar python
-	pkg install python3 -y;pkg install python2 -y;clear
+	pkg install python3 -y;pkg install python2 -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34Caso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -502,7 +505,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      19)
 	#Instalar php
-	pkg install php -y;clear
+	pkg install php -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -513,7 +516,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      20)
 	#Instalar clang
-	pkg install clang -y;clear
+	        pkg install clang -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -525,7 +528,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 
      21)
 	#Instalar perl
-	pkg install perl -y;clear
+	pkg install perl -y;clear;GRAFICO_OU_MENU
 		echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mCaso queira saber pra que serve e como funciona essa ferramenta, vá ao manual da script !\033[0m"
 		echo
 		echo -e "\033[1;33mAPERTE ENTER PARA prosseguir. :\033[0m"
@@ -558,7 +561,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 	      cd
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mBaixando o programa em texto Tentame Kelzer... pfvr aguarde!\033[0m"
               sleep 4
-              git clone https://github.com/HelexielKelzer/Tentame_Kelzer
+              git clone https://github.com/gabrielkelzer/Tentame_Kelzer
               cd Tentame_Kelzer;chmod +x *;cd;clear
               GRAFICO_OU_MENU
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar a RedHawk, uma ferramenta que segundo o criador:
@@ -605,25 +608,21 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 		echo -e "
 \033[1;33m1) SOBRE:\033[0m
 
-\033[1;31mSomos uma escola e organizadora de eventos de hacking e pentest.\033[0m
+\033[1;31mSomos um site de cursos online.\033[0m
 
-\033[1;33mOBS:\033[0m\033[1;31mVale destacar que também somos uma comunidade.\033[0m
+\033[1;33mOBS:\033[0m\033[1;31mVale destacar que oferecemos certificado.\033[0m
 
-\033[1;33m2) PATENTE DOS MEMBROS:\033[0m
+\033[1;33m2) TEMOS UM PROGRAMA DE AFILIADOS?\033[0m
 
-\033[1;31mEm nosso sistema aqueles que terem mais conhecimento receberá a cor preta.
+\033[1;31mSim, caso esteja interessado(a) procure entrar em contato.\033[0m
 
-Ou se o mesmo for iniciante ele receberá a cor branca.
+\033[1;33m3) O CERTIFICADO É PAGO?\033[0m
 
-Para os que sabem programar e etc... terão a cor azul.\033[0m
-
-\033[1;33m3) POSSO SER RECRUTADO ?\033[0m
-
-\033[1;31mSim, temos um grupo do WhatsApp. Um dos requisitos é ter um QI maior que 125.\033[0m"
+\033[1;31mOs cursos grátis possuem opção de imprimir de graç. Porém, os cursos pagos tem que pagar pra obter um certificado.\033[0m"
 		echo    
 		echo -e "\033[1;33mESTÁ CURIOSO ? BEM VINDO AO CLUBE ! AGORA, DIGITE ENTER PARA CONTINUAR\033[0m"
 		read SEGUE
-		termux-open-url https://zonamestre.blogspot.com/p/loja.html;;
+		termux-open-url https://zonamestre.blogspot.com;;
 
 
 
