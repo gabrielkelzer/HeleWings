@@ -23,6 +23,6 @@ pkg install python -y
 pkg install figlet
 pkg install pip
 pip install lolcat
-
+pip install --upgrade pip
 [6] Comando para iniciar a script
 . ./HeleWings.sh
