@@ -6,7 +6,6 @@ COMANDOS:
 termux-setup-storage
 
 [2] Atualizar repositórios
-apt update
 apt update -y
 apt upgrade -y
 
@@ -14,7 +13,7 @@ apt upgrade -y
 pkg install git -y
 
 [4] Comando pra baixar a script
-https://github.com/VanHellsing7/HeleWings
+https://github.com/gabrielkelzer/HeleWings
 
 [5] Entrando na pasta da script e dando permissões pra mesma
 ls
@@ -22,6 +21,7 @@ cd HeleWings
 chmod +x *
 pkg install python -y
 pkg install figlet
+pkg install pip
 pip install lolcat
 
 [6] Comando para iniciar a script
