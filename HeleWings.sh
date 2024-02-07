@@ -71,7 +71,6 @@ COR_AMARELO="echo -e '\033[1;33m"
 
 
 
-
 ##############################################
 #Abaixo os comandos que vai fazer a script só#
 #Parar de executar quando o usuario...########
@@ -783,7 +782,10 @@ GRUPOS APOIADORES:\033[0m\033[1;34m
      Família Flood
      Tecno go
      Programando o mundo\033[0m
-\033[03;32m"A indepedência começa quando você não depende de alguém nem mesmo para aprender ", Gabriel Kelzer.\033[0m';;
+\033[03;32m"A indepedência começa quando você não depende de alguém nem mesmo para aprender ", Gabriel Kelzer.\033[0m'
+	      echo
+              echo -e "\033[1;33mAPERTE ENTER PARA SAIR:\033[0m"
+              read SEGUE;cd HeleWings;;
 
 
 
