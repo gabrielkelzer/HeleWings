@@ -104,7 +104,7 @@
          echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼\033[0m \033[1;34mDigite o seu nome/Nick:\033[0m"
          read NICK_DO_USUARIO
       #Personalizando a parte 2
-         echo "PS1='\033[1;31m$NICK_DO_USUARIO@ScriptZone:\033[0m~$ '" >> bash.bashrc
+         echo "PS1='\033[1;31m$NICK_DO_USUARIO@KelzerComunity:\033[0m~$ '" >> bash.bashrc
       #Apagando o arquivo temporario
          rm -rf ARQUIVO_VAZIO
       #Voltando pra pasta da script
