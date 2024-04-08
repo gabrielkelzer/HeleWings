@@ -1,18 +1,4 @@
-oqueru #Opcao do menu de personalizar o termux
-      #OBS:É PROIBIDO ALTERAR, OU COPIAR ESSA PARTE
-      #DO PROGRAMA.
-      ###########################
-      #VERIFICANDO SE TEM O NANO#
-      ###########################
-      #O COMANDO which SERVE PRA VER SE DETERMINADO PROGRAMA ESTÁ INSTALADO.
-      NANO_ESTA=$(which nano)
-      if [[ -z "$NANO_ESTA" ]];then
-       GRAFICO_OU_MENU
-       echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mErro: Esta opcao requer o nano instalado, Volte ao menu principal e instale o nano\033[0m"
-       echo
-       echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
-       read SEGUE
-      else
+#Opcao do menu de personalizar o termux
       ####################
       #FAZENDO O PROCESSO#
       ####################
@@ -130,4 +116,3 @@ oqueru #Opcao do menu de personalizar o termux
          echo
          echo -e "\033[1;33mAPERTE ENTER PARA VOLTAR AO MENU PRINCIPAL: \033[0m"
          read SEGUE
-      fi
