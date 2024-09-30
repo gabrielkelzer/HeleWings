@@ -814,7 +814,7 @@ R=\033[0m \033[1;34mBom, da pra fazer várias coisas como rastrear, derrubar com
 /----------------------------------------------\
 l\033[0m\033[1;33m  AULAS NOVAS DO MINI TREINAMENTO EM HACKING \033[0m\033[1;36m l
 ------------------------------------------------
-l\033[0m\033[1;32m [\033[0m1\033[1;32m]\033[0m\033[1;31m Como enviar aúdio falso pelo termux     \033[0m\033[1;36m  l                 l
+l\033[0m\033[1;32m [\033[0m1\033[1;32m]\033[0m\033[1;31m Como enviar aúdio falso pelo termux    \033[0m\033[1;36m  l                 
 l    					       l
 l \033[0m\033[1;32m[\033[0m2\033[1;32m]\033[0m\033[1;31m Como scannear sites com a red hawk      \033[0m\033[1;36m l
 l					       l
