@@ -775,13 +775,9 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
      \033[1;34mHellsing. (Ele colocou um A em alguma parte do script que eu nao lembro, nao sei o que seria de nos sem ele!)\033[0m
 \033[1;32mSALVES:\033[0m
      \033[1;34mGabriel Flood
-     Niccolas prudencio
      Leo Azarelf\033[0m\033[1;32m
 GRUPOS APOIADORES:\033[0m\033[1;34m
-     ScriptZone
-     Família Flood
-     Tecno go
-     Programando o mundo\033[0m
+     Família Flood\033[0m
 \033[03;32m"A indepedência começa quando você não depende de alguém nem mesmo para aprender ", Gabriel Kelzer.\033[0m'
 	      echo
               echo -e "\033[1;33mAPERTE ENTER PARA SAIR:\033[0m"
