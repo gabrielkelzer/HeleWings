@@ -9,11 +9,11 @@
 
 ## 📜 História
 
-A **HeleWings v1** (ou *Asas de Helexiel*) é uma script cuja ideia de criação foi do **Gabriel Kelzer**.
+A **HeleWings v1** (ou *Asas de Helê*) é uma script cuja ideia de criação foi do **Gabriel Kelzer**.
 
-Esta ferramenta é praticamente uma atualização da **HeleScript v2**, cujo desenvolvedor é o mesmo.
+Esta ferramenta é praticamente uma atualização da **Hele**, cujo desenvolvedor é o mesmo.
 
-Vale destacar que na **HelêWings** o Gabriel Kelzer obteve ajuda de alguns membros da **HeleSoft**.
+Vale destacar que na **HelêWings** o Gabriel Kelzer obteve ajuda de alguns membros da **KelzerBoy**.
 
 ---
 
