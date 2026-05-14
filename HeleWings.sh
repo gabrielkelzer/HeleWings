@@ -226,11 +226,11 @@ case "$MENU_PRINCIPAL" in
         #CASO O USUARIO TENHA O GIT#
         ############################
               GRAFICO_OU_MENU
-	      cd
+	          cd
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mBaixando o programa em texto Red Hawk... pfvr aguarde!\033[0m"
               sleep 4
               git clone https://github.com/Tuhinshubhra/RED_HAWK
-              cd RED_HAWK;chmod +x *;cd;clear
+              cd RED_HAWK;chmod +x *;cd;cd HeleWings;clear
               GRAFICO_OU_MENU
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar a RedHawk, uma ferramenta que segundo os criadores:
 
@@ -247,7 +247,7 @@ case "$MENU_PRINCIPAL" in
 caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
               echo
               echo -e "\033[1;33mPRONTO, MISSÃO CUMPRIDA, AGORA APERTE ENTER PARA VOLTAR AO MENU PRINCIPAL:\033[0m"
-              read SEGUE;cd HeleWings
+              read SEGUE;
            fi;;
 
 
@@ -557,13 +557,14 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
         #CASO O USUARIO TENHA O GIT#
         ############################
               GRAFICO_OU_MENU
-	      cd
+	          cd
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mBaixando o programa em texto Tentame Kelzer... pfvr aguarde!\033[0m"
               sleep 4
               git clone https://github.com/gabrielkelzer/Tentame_Kelzer
-              cd Tentame_Kelzer;chmod +x *;cd;clear
+              cd Tentame_Kelzer;chmod +x *;cd;cd HeleWings;clear
               GRAFICO_OU_MENU
-              echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar a RedHawk, uma ferramenta que segundo o criador:
+              echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar a Tentame Kelzer, uma ferramenta que segundo o criador:
+
 - Envia aúdio falso de Homem;
 - Envia aúdio falso de Mulher;
 
@@ -571,7 +572,7 @@ caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
 caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
               echo
               echo -e "\033[1;33mPRONTO, MISSÃO CUMPRIDA, AGORA APERTE ENTER PARA VOLTAR AO MENU PRINCIPAL:\033[0m"
-              read SEGUE;cd Tentame_Kelzer
+              read SEGUE;;
            fi;;
 
 
