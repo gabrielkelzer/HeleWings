@@ -107,8 +107,3 @@ Use com responsabilidade.
 
 ---
 
-# ⌨️ CONTINUAR
-
-```bash
-APERTE ENTER PARA PROSSEGUIR:
-```
