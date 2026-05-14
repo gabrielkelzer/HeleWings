@@ -1,12 +1,9 @@
-# 🪽 HELÊWINGS V1 OFICIAL
+# HELÊWINGS V1 OFICIAL
 
 <p align="center">
   <img src="https://github.com/gabrielkelzer/HeleWings/blob/main/file_000000007f6871f7add5f40b86b7de05.png" width="850">
 </p>
 
-=-=-=-=-=-=-=-=-=-=-=-=
-= MANUAL DA SCRIPT: =
-=-=-=-=-=-=-=-=-=-=-=-=
 
 # 📖 SOBRE A HELÊWINGS V1 OFICIAL
 
