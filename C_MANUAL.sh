@@ -34,10 +34,8 @@ do
 
 \033[1;33mHistória:\033[0m
 
-\033[1;34mA HeleWings v1 (ou asas de helexiel) é uma script cuja ideia de criação foi do Gabriel Kelzer. Então, esta ferramenta é praticamente uma atualização da HeleScript v2, cujo o desenvolvedor é o mesmo.
+\033[1;34mA HeleWings v1 (ou asas de helê) é uma script cuja ideia de criação foi do Gabriel Kelzer. Então, esta ferramenta é praticamente uma atualização de um script, cujo o desenvolvedor é o mesmo.
                                                                       
-Vale destacar que na HelêWings o Gabriel Kelzer obteve ajuda de uns membros da HeleSoft.\033[0m
-
 \033[1;33mFunção da script:\033[0m
 
 \033[1;34m- Personalizar o termux;
@@ -95,10 +93,9 @@ pkg install lolcat -y
 \033[1;34m
 Olá pequeno infectado, quer falar comigo ? vou deixar o link da minha conta do instagram logo abaixo:
 \033[0m\033[1;33m
-Instagram:
-GabrielKelzer\033[0m
+Instagram:\033[0m
 \033[1;34m
-deixe aqui
+kelzerboyx
 \033[0m
 '
 	     echo -e '\033[1;31mAPERTE ENTER PARA PROSSEGUIR:\033[0m'
